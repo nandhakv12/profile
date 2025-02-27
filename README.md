@@ -79,10 +79,6 @@ I am a **Master’s student in Artificial Intelligence** at the **University at 
 
 ---
 
-## 📊 **GitHub Stats**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandhakv12&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhakv12&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhakv12&layout=compact&theme=radical)
 
 ---
 
